@@ -5,6 +5,7 @@ Make Spending Smarter, Safer & Simpler
 💳 A smart assistant that recommends the best payment method (Card, Wallet, or UPI) based on real-time user inputs like offers, limits, and spending habits.
 
 
+
 🚀 Features
 
 ✅ Suggests optimal payment method for each purchase
@@ -22,6 +23,7 @@ Make Spending Smarter, Safer & Simpler
 👉 Watch full demo video:- https://www.loom.com/share/1e24c5e709df4d04aa8289df20f8c2c2?sid=653ed11c-574c-4bce-bb6f-18cfb56ceba7
 
 
+
 🧪 How It Works
 
 SmartPay uses the following decision logic:
@@ -35,6 +37,7 @@ SmartPay uses the following decision logic:
 -Else → Default to Card
 
 
+
 🧰 Tech Stack
 
 Python (CLI logic)
@@ -44,17 +47,23 @@ Excel (IF formulas, color formatting)
 Google Slides / Loom (Pitch & Demo)
 
 
+
 🧾 File Structure
 
 SmartPay-Advisor/
 ├── README.md
+
 ├── smartpay_cli.py
+
 ├── Excel_Simulator.xlsx
+
 ├── screenshots/
 │   ├── excel_demo.png
 │   └── cli_demo.png
+
 ├── pitch/
 │   └── SmartPayAdvisor_YashRaj_Final.pdf
+
 
 
 📦 How to Use
@@ -69,6 +78,7 @@ Answer the prompts
 Get your recommended payment method instantly ✅
 
 
+
 🌱 Future Scope
 
 🔄 Real-time integration with UPI/bank APIs
@@ -80,6 +90,7 @@ Get your recommended payment method instantly ✅
 📱 Mobile UI using React Native / AppInventor
 
 📊 Spending dashboard & visual analytics
+
 
 
 👨‍💻 Author
